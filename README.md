@@ -1,2 +1,2 @@
-# CRM100B2-3-StardewValley
-Stardew Valley promo
+# Stardew-Valley-CRM100-Brief-Two
+Stardew Valley promotional project
